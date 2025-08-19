@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7518560062284558658}
   - component: {fileID: 2973126072167966449}
+  - component: {fileID: 1077456789998826473}
   m_Layer: 5
   m_Name: UILayerScreens
   m_TagString: Untagged
@@ -59,6 +60,23 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: 100
   m_TargetDisplay: 0
+--- !u!114 &1077456789998826473
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 248131858110556248}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IgnoreReversedGraphics: 1
+  m_BlockingObjects: 0
+  m_BlockingMask:
+    serializedVersion: 2
+    m_Bits: 55
 --- !u!1 &788056347410440707
 GameObject:
   m_ObjectHideFlags: 0
@@ -69,6 +87,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6160847065937765109}
   - component: {fileID: 2867195222386083869}
+  - component: {fileID: 9190871274702407065}
   m_Layer: 5
   m_Name: UILayerLoadingScreen
   m_TagString: Untagged
@@ -118,6 +137,23 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: 300
   m_TargetDisplay: 0
+--- !u!114 &9190871274702407065
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 788056347410440707}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IgnoreReversedGraphics: 1
+  m_BlockingObjects: 0
+  m_BlockingMask:
+    serializedVersion: 2
+    m_Bits: 55
 --- !u!1 &6834000096709093016
 GameObject:
   m_ObjectHideFlags: 0
@@ -128,6 +164,7 @@ GameObject:
   m_Component:
   - component: {fileID: 250322484744015305}
   - component: {fileID: 6427442407407145224}
+  - component: {fileID: 5422556164074717762}
   m_Layer: 5
   m_Name: UILayerWindows
   m_TagString: Untagged
@@ -177,6 +214,23 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: 200
   m_TargetDisplay: 0
+--- !u!114 &5422556164074717762
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6834000096709093016}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IgnoreReversedGraphics: 1
+  m_BlockingObjects: 0
+  m_BlockingMask:
+    serializedVersion: 2
+    m_Bits: 55
 --- !u!1 &7832589652494137251
 GameObject:
   m_ObjectHideFlags: 0
